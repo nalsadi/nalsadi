@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Naseem 😊
+### Hello There 👋, I'm Naseem 😊
 
 
 I explore the intersection of machine learning, healthcare and blockchain! 
