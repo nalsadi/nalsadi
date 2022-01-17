@@ -3,8 +3,10 @@
 
 I explore the intersection of machine learning, healthcare and blockchain! 
 
-  🎓 PhD student at the Univeristy of McMaster during the supervision of Dr. Andrew Gadsden
+  🎓 PhD student at the Univeristy of McMaster under the supervision of Dr. Andrew Gadsden
+  
   💻 Data Scientist at Adastra Corporation 
+  
   📫 Reach me at alsadin at mcmaster dot ca
 <!--
 **nalsadi/nalsadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
