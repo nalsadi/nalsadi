@@ -7,7 +7,7 @@ I explore the intersection of machine learning, healthcare and blockchain!
   
   💻 Data Scientist at Adastra Corporation 
   
-  📫 Reach me at alsadin at mcmaster dot ca
+  📫 Reach me at alsadin@mcmaster.ca
 <!--
 **nalsadi/nalsadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
