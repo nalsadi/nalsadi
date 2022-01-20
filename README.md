@@ -3,7 +3,7 @@
 
 I explore the intersection of machine learning, healthcare and blockchain! 
 
-  🎓 PhD student at the Univeristy of McMaster under the supervision of Dr. Andrew Gadsden
+  🎓 Ph.D. student at the Univeristy of McMaster under the supervision of Dr. Andrew Gadsden
   
   💻 Data Scientist at Adastra Corporation 
   
