@@ -7,7 +7,7 @@ I explore the intersection of machine learning, healthcare and blockchain!
 
   🏆 Natural Sciences and Engineering Research Council (NSERC) CGS D Scholarship & Ontario Graduate Scholarship 
   
-  💻 Data Scientist at Adastra Corporation 
+  💻 Senior Data Scientist at Adastra Corporation 
   
   📫 Reach me at alsadin@mcmaster.ca
 <!--
