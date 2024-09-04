@@ -3,7 +3,7 @@
 
 I explore the intersection of machine learning, healthcare and blockchain! 
 
-  🎓 Ph.D. student at the Univeristy of McMaster under the supervision of Dr. Andrew Gadsden
+  🎓 Ph.D. student at the University of McMaster under the supervision of Dr. Andrew Gadsden
 
   🏆 Natural Sciences and Engineering Research Council (NSERC) CGS D Scholarship & Ontario Graduate Scholarship 
   
