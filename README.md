@@ -1,7 +1,7 @@
 ### Hello There 👋, I'm Naseem 😊
 
 
-I explore the intersection of machine learning, healthcare and blockchain! 
+I explore the intersection of machine learning and blockchain! 
 
   🎓 Ph.D. student at the University of McMaster under the supervision of Dr. Andrew Gadsden
 
