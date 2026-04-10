@@ -9,6 +9,6 @@ I explore the intersection of machine learning and blockchain!
   
   💻 Senior Data Scientist at Adastra Corporation 
 
-  🛠️ Multi-Cloud Engineer (AWS + Azure)
+  🛠️ Multi-Cloud Engineer (AWS + Azure + GCP)
   
   📫 Reach me at alsadin@mcmaster.ca
