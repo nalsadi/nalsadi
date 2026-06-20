@@ -7,7 +7,7 @@ I explore the intersection of machine learning and blockchain!
 
   🏆 Natural Sciences and Engineering Research Council (NSERC) CGS D Scholarship & Ontario Graduate Scholarship 
   
-  💻 Senior Data Scientist at Adastra Corporation 
+  💻 Director of AI Engineering at Silk River Capital 
 
   🛠️ Multi-Cloud Engineer (AWS + Azure + GCP)
   
